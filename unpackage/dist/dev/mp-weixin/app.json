@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/info/info"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "新闻导航",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "navigationStyle": "default",
+    "backgroundTextStyle": "dark",
+    "enablePullDownRefresh": true,
+    "onReachBottomDistance": 50,
+    "backgroundColorTop": "#ffffff",
+    "backgroundColorBottom": "#ffffff",
+    "pageOrientation": "portrait",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

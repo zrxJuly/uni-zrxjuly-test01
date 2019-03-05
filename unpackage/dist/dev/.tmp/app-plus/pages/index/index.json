@@ -1,0 +1,34 @@
+{
+  "navigationBarTitleText": "新闻首页",
+  "navigationBarBackgroundColor": "#FFB74F",
+  "navigationBarTextStyle": "white",
+  "navigationStyle": "default",
+  "backgroundColor": "#FFB74F",
+  "backgroundTextStyle": "dark",
+  "onReachBottomDistance": 50,
+  "backgroundColorTop": "#ffffff",
+  "backgroundColorBottom": "#ffffff",
+  "enablePullDownRefresh": true,
+  "pullToRefresh": {
+    "bounce": "none",
+    "support": true,
+    "color": "#ff3333",
+    "style": "default",
+    "titleNView": {
+      "buttons": [
+        {
+          "text": "分享"
+        }
+      ]
+    },
+    "contentdown": {
+      "caption": "下拉刷新"
+    },
+    "contentover": {
+      "caption": "释放刷新当前页面"
+    },
+    "contentrefresh": {
+      "caption": "正在刷新..."
+    }
+  }
+}

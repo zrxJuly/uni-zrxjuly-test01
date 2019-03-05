@@ -1,0 +1,43 @@
+{
+	"description": "项目配置文件。",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"autoAudits": false
+	},
+	"compileType": "miniprogram",
+	"libVersion": "",
+	"appid": "wx5c8de3bc113d1f4b",
+	"projectname": "uni-zrxjuly-test01",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"name": "test",
+					"query": "newsid=5158607",
+					"id": 0,
+					"pathName": "pages/info/info"
+				}
+			]
+		}
+	}
+}

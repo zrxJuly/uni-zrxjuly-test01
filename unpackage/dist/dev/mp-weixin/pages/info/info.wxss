@@ -1,0 +1,10 @@
+
+.content{width: 90%; height: auto; margin: 5%;}
+.main-title{}
+.title{font-size: 1.1em;}
+.main-title-info{margin-top: 5%;}
+.author{float: left; color: #555555;}
+.date{float:left; padding-left: 5%; color: #C8C7CC;}
+.main-content{width: 100%; clear: both;padding-top: 2%; padding:10rpx;}
+.main-bottom{color: #555555;}
+
